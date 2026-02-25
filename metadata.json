@@ -1,0 +1,27 @@
+{
+  "title": "Programming: Comparison Operators",
+  "slug": "programming-comparison-operators",
+  "description": "Language-agnostic introduction to comparison operators and how comparisons evaluate to boolean values across programming languages.",
+  "authors": [
+    "chris-cooling"
+  ],
+  "tags": [
+    "programming",
+    "pseudocode"
+  ],
+  "duration": 4,
+  "prerequisites": [
+    "programming-booleans",
+    "programming-expressions",
+    "programming-variables",
+    "programming-objects-types",
+    "programming-arithmetic-operators",
+    "programming-operator-precedence-arithmetic"
+  ],
+  "related": [
+    "python-comparison-operators",
+    "programming-boolean-operators",
+    "programming-arithmetic-operators",
+    "programming-operator-precedence-arithmetic"
+  ]
+}
