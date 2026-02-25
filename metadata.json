@@ -14,9 +14,7 @@
     "programming-booleans",
     "programming-expressions",
     "programming-variables",
-    "programming-objects-types",
-    "programming-arithmetic-operators",
-    "programming-operator-precedence-arithmetic"
+    "programming-objects-types"
   ],
   "related": [
     "python-comparison-operators",
